@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/pause-aarch64:3.1
+FROM k8s.gcr.io/kube-proxy:v1.13.5-aarch64:V1.13.5
