@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns-arm64:1.2.6
+FROM k8s.gcr.io/kube-scheduler-arm64:v1.13.5
